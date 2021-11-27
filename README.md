@@ -10,7 +10,7 @@ Projeto realizado durante o módulo JavaScript Completo ES6+ do curso Origamid. 
 Um slide feito totalmente com JavaScript puro.
 <br> <a href="https://luc-ribeiro.github.io/slide/">Live Preview</a>
 
-## :memo: Como utilizar
+## :page_facing_up: Como utilizar
 
 Faça um clone deste repositório:
 
@@ -29,3 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 	<img align="center" alt="Luc-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luc-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+
+## :memo: License
+
+Copyright © 2020 Lucas Ribeiro / Origamid
