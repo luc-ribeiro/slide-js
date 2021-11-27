@@ -1,18 +1,24 @@
 # Slides com JavaScript
 
 <div>
-<img alt="Slides" align="center" title="Slides" src=".github/slide.png" />
+<img align="center" alt="Luc-HTML" src="https://github.com/luc-ribeiro/slide/blob/master/design/mockup.gif?raw=true">
 </div>
 
 ## 💻 Projeto
 
 Projeto realizado durante o módulo JavaScript Completo ES6+ do curso Origamid. <br>
 Um slide feito totalmente com JavaScript puro.
+<br> <a href="https://luc-ribeiro.github.io/slide/">Live Preview</a>
 
 ## :memo: Como utilizar
 
-Criar uma div e incluir a classe "slide-wrapper", em seguida criar uma ul com a classe "slide" dentro da div slide-wrapper.
-Cada item da lista (li) irá conter as imagens para o carrossel.
+Faça um clone deste repositório:
+
+```sh
+  $ git clone https://github.com/luc-ribeiro/slide.git
+```
+Na **index.html**, alterar as imagens que estão dentro dos li's da ul de classe **slide**.
+É importante manter a ul **slide** dentro da div de classe **slide-wrapper**.
 
 ## 🚀 Tecnologias
 
